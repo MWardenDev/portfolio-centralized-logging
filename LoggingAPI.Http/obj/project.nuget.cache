@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Xj6gCQnbBc=",
+  "success": true,
+  "projectFilePath": "C:\\RepoVault\\portfolio-centralized-logging\\LoggingAPI.Http\\Logging.API.Http.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Warde\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

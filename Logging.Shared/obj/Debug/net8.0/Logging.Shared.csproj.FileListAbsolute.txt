@@ -1,0 +1,13 @@
+C:\RepoVault\portfolio-centralized-logging\Logging.Shared\bin\Debug\net8.0\Logging.Shared.deps.json
+C:\RepoVault\portfolio-centralized-logging\Logging.Shared\bin\Debug\net8.0\Logging.Shared.dll
+C:\RepoVault\portfolio-centralized-logging\Logging.Shared\bin\Debug\net8.0\Logging.Shared.pdb
+C:\RepoVault\portfolio-centralized-logging\Logging.Shared\obj\Debug\net8.0\Logging.Shared.csproj.AssemblyReference.cache
+C:\RepoVault\portfolio-centralized-logging\Logging.Shared\obj\Debug\net8.0\Logging.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepoVault\portfolio-centralized-logging\Logging.Shared\obj\Debug\net8.0\Logging.Shared.AssemblyInfoInputs.cache
+C:\RepoVault\portfolio-centralized-logging\Logging.Shared\obj\Debug\net8.0\Logging.Shared.AssemblyInfo.cs
+C:\RepoVault\portfolio-centralized-logging\Logging.Shared\obj\Debug\net8.0\Logging.Shared.csproj.CoreCompileInputs.cache
+C:\RepoVault\portfolio-centralized-logging\Logging.Shared\obj\Debug\net8.0\Logging.Shared.sourcelink.json
+C:\RepoVault\portfolio-centralized-logging\Logging.Shared\obj\Debug\net8.0\Logging.Shared.dll
+C:\RepoVault\portfolio-centralized-logging\Logging.Shared\obj\Debug\net8.0\refint\Logging.Shared.dll
+C:\RepoVault\portfolio-centralized-logging\Logging.Shared\obj\Debug\net8.0\Logging.Shared.pdb
+C:\RepoVault\portfolio-centralized-logging\Logging.Shared\obj\Debug\net8.0\ref\Logging.Shared.dll

@@ -1,0 +1,16 @@
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Http\bin\Debug\net8.0\Logging.API.Http.deps.json
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Http\bin\Debug\net8.0\Logging.API.Http.dll
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Http\bin\Debug\net8.0\Logging.API.Http.pdb
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Http\obj\Debug\net8.0\Logging.API.Http.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Http\obj\Debug\net8.0\Logging.API.Http.AssemblyInfoInputs.cache
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Http\obj\Debug\net8.0\Logging.API.Http.AssemblyInfo.cs
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Http\obj\Debug\net8.0\Logging.API.Http.csproj.CoreCompileInputs.cache
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Http\obj\Debug\net8.0\Logging.API.Http.sourcelink.json
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Http\obj\Debug\net8.0\Logging.API.Http.dll
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Http\obj\Debug\net8.0\refint\Logging.API.Http.dll
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Http\obj\Debug\net8.0\Logging.API.Http.pdb
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Http\obj\Debug\net8.0\ref\Logging.API.Http.dll
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Http\bin\Debug\net8.0\Logging.Shared.dll
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Http\bin\Debug\net8.0\Logging.Shared.pdb
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Http\obj\Debug\net8.0\Logging.API.Http.csproj.AssemblyReference.cache
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Http\obj\Debug\net8.0\Logging..F8D5A78F.Up2Date
