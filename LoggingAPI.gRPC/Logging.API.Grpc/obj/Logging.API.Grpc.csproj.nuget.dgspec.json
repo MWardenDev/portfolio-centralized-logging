@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\RepoVault\\portfolio-centralized-logging\\LoggingAPI.Microservice\\Logging.API.Microservice\\Logging.API.Microservice.csproj": {}
+    "C:\\RepoVault\\portfolio-centralized-logging\\LoggingAPI.gRPC\\Logging.API.Grpc\\Logging.API.Grpc.csproj": {}
   },
   "projects": {
-    "C:\\RepoVault\\portfolio-centralized-logging\\LoggingAPI.Microservice\\Logging.API.Microservice\\Logging.API.Microservice.csproj": {
+    "C:\\RepoVault\\portfolio-centralized-logging\\LoggingAPI.gRPC\\Logging.API.Grpc\\Logging.API.Grpc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\RepoVault\\portfolio-centralized-logging\\LoggingAPI.Microservice\\Logging.API.Microservice\\Logging.API.Microservice.csproj",
-        "projectName": "Logging.API.Microservice",
-        "projectPath": "C:\\RepoVault\\portfolio-centralized-logging\\LoggingAPI.Microservice\\Logging.API.Microservice\\Logging.API.Microservice.csproj",
+        "projectUniqueName": "C:\\RepoVault\\portfolio-centralized-logging\\LoggingAPI.gRPC\\Logging.API.Grpc\\Logging.API.Grpc.csproj",
+        "projectName": "Logging.API.Grpc",
+        "projectPath": "C:\\RepoVault\\portfolio-centralized-logging\\LoggingAPI.gRPC\\Logging.API.Grpc\\Logging.API.Grpc.csproj",
         "packagesPath": "C:\\Users\\Warde\\.nuget\\packages\\",
-        "outputPath": "C:\\RepoVault\\portfolio-centralized-logging\\LoggingAPI.Microservice\\Logging.API.Microservice\\obj\\",
+        "outputPath": "C:\\RepoVault\\portfolio-centralized-logging\\LoggingAPI.gRPC\\Logging.API.Grpc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Warde\\AppData\\Roaming\\NuGet\\NuGet.Config"

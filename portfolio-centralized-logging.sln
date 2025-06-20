@@ -8,7 +8,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{4F52FD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logging.API.Microservice", "LoggingAPI.Microservice\Logging.API.Microservice\Logging.API.Microservice.csproj", "{0309F73E-52CC-8784-80CA-96FFDDF3646D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logging.Shared", "Shared\Logging.Shared\Logging.Shared.csproj", "{16A7706D-4D7E-8F5F-1CDD-5909D997642E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logging.Shared", "Logging.Shared\Logging.Shared.csproj", "{16A7706D-4D7E-8F5F-1CDD-5909D997642E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

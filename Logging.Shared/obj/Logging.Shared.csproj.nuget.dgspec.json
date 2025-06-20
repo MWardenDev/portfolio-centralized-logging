@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\RepoVault\\portfolio-centralized-logging\\Shared\\Logging.Shared\\Logging.Shared.csproj": {}
+    "C:\\RepoVault\\portfolio-centralized-logging\\Logging.Shared\\Logging.Shared.csproj": {}
   },
   "projects": {
-    "C:\\RepoVault\\portfolio-centralized-logging\\Shared\\Logging.Shared\\Logging.Shared.csproj": {
+    "C:\\RepoVault\\portfolio-centralized-logging\\Logging.Shared\\Logging.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\RepoVault\\portfolio-centralized-logging\\Shared\\Logging.Shared\\Logging.Shared.csproj",
+        "projectUniqueName": "C:\\RepoVault\\portfolio-centralized-logging\\Logging.Shared\\Logging.Shared.csproj",
         "projectName": "Logging.Shared",
-        "projectPath": "C:\\RepoVault\\portfolio-centralized-logging\\Shared\\Logging.Shared\\Logging.Shared.csproj",
+        "projectPath": "C:\\RepoVault\\portfolio-centralized-logging\\Logging.Shared\\Logging.Shared.csproj",
         "packagesPath": "C:\\Users\\Warde\\.nuget\\packages\\",
-        "outputPath": "C:\\RepoVault\\portfolio-centralized-logging\\Shared\\Logging.Shared\\obj\\",
+        "outputPath": "C:\\RepoVault\\portfolio-centralized-logging\\Logging.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Warde\\AppData\\Roaming\\NuGet\\NuGet.Config"
