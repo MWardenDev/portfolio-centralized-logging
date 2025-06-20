@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/portfolio-centralized-logging/Shared/Logging.Shared/Logging.Shared.csproj": {}
+    "C:\\RepoVault\\portfolio-centralized-logging\\Shared\\Logging.Shared\\Logging.Shared.csproj": {}
   },
   "projects": {
-    "/workspaces/portfolio-centralized-logging/Shared/Logging.Shared/Logging.Shared.csproj": {
+    "C:\\RepoVault\\portfolio-centralized-logging\\Shared\\Logging.Shared\\Logging.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/portfolio-centralized-logging/Shared/Logging.Shared/Logging.Shared.csproj",
+        "projectUniqueName": "C:\\RepoVault\\portfolio-centralized-logging\\Shared\\Logging.Shared\\Logging.Shared.csproj",
         "projectName": "Logging.Shared",
-        "projectPath": "/workspaces/portfolio-centralized-logging/Shared/Logging.Shared/Logging.Shared.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/portfolio-centralized-logging/Shared/Logging.Shared/obj/",
+        "projectPath": "C:\\RepoVault\\portfolio-centralized-logging\\Shared\\Logging.Shared\\Logging.Shared.csproj",
+        "packagesPath": "C:\\Users\\Warde\\.nuget\\packages\\",
+        "outputPath": "C:\\RepoVault\\portfolio-centralized-logging\\Shared\\Logging.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Warde\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -42,6 +42,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.410/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.411/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
