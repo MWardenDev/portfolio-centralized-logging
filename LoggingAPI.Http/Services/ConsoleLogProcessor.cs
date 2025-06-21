@@ -1,5 +1,6 @@
-using Logging.Shared.Interfaces;
 using Logging.Shared.Models;
+using Logging.Shared.Interfaces;
+
 
 namespace Logging.API.Http.Services;
 
