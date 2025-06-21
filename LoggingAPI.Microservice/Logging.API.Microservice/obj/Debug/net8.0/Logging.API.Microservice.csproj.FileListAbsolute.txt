@@ -1,0 +1,12 @@
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Microservice\Logging.API.Microservice\bin\Debug\net8.0\Logging.API.Microservice.deps.json
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Microservice\Logging.API.Microservice\bin\Debug\net8.0\Logging.API.Microservice.dll
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Microservice\Logging.API.Microservice\bin\Debug\net8.0\Logging.API.Microservice.pdb
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Microservice\Logging.API.Microservice\obj\Debug\net8.0\Logging.API.Microservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Microservice\Logging.API.Microservice\obj\Debug\net8.0\Logging.API.Microservice.AssemblyInfoInputs.cache
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Microservice\Logging.API.Microservice\obj\Debug\net8.0\Logging.API.Microservice.AssemblyInfo.cs
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Microservice\Logging.API.Microservice\obj\Debug\net8.0\Logging.API.Microservice.csproj.CoreCompileInputs.cache
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Microservice\Logging.API.Microservice\obj\Debug\net8.0\Logging.API.Microservice.sourcelink.json
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Microservice\Logging.API.Microservice\obj\Debug\net8.0\Logging.API.Microservice.dll
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Microservice\Logging.API.Microservice\obj\Debug\net8.0\refint\Logging.API.Microservice.dll
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Microservice\Logging.API.Microservice\obj\Debug\net8.0\Logging.API.Microservice.pdb
+C:\RepoVault\portfolio-centralized-logging\LoggingAPI.Microservice\Logging.API.Microservice\obj\Debug\net8.0\ref\Logging.API.Microservice.dll
